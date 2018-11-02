@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+    <debug>1</debug> <!-- 是否需要应用捕捉异常，1 不捕捉   0 捕捉 -->
+    <initDataBase>1</initDataBase>   <!-- 是否需要在BaseApplication中初始化SDK自带数据库   1 初始化    0 不初始化-->
+    <initServiceManager>1
+    </initServiceManager>   <!-- 是否需要在BaseApplication中初始化ServiceManager   1 初始化    0 不初始化-->
+</config>
+  
